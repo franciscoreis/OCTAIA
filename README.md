@@ -11,11 +11,11 @@ The main goal is to address fragmentation where different platforms such as Zoom
 
 Why the OCTAIA name? Because communication has many facets and we decided to highlight 8 (OCTo), one of which is intelligence (AIA - Artificial Intelligence Assistance). 
 
-The 8 facets are Audio, Video, Text, Chat, Intelligence, Senses, Multiverse, Sign.
+The 8 facets are Audio, Video, Text, Chat, Intelligence, Senses, Multiverse, Signs.
 
 For this to happen, we must invest time in extracting the communication layer from the Umniverse platform so that any platform, including Umniverse, would access it in a standard and friendly way.
 
-The final result would be an Javascript library that can easily be used by any platform. It will eventually be accompanied by a simple HTML file to demo its use.
+The final result would be a Javascript library that can easily be used by any platform. It will eventually be accompanied by a simple HTML file to demo its use.
 
 For the time being, please tell us if this project would be interesting for you or your company so that we find motivation to commit an initial code version. 
 
