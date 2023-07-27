@@ -24,3 +24,5 @@ Please, try the above links to NoGoClass and NoGoParty and give us your feedback
 Note 1: Sincere thanks and due recognition to the open source library SimplePeer (https://github.com/feross/simple-peer) used by OCTAIA for WebRTC communication.
 
 NOTE 2: for more information, check www.octaia.com .
+
+NOTE 3: OCTAIA technologies are developed and teste in Umniverse (automatically include Omnatar.ai, WORLDesktop.org, ...)
