@@ -3,7 +3,7 @@ Open Communication Standard Environment Proposal
 
 This is a project started 18th March 2020 to assist remote learning for schools.
 
-It is currently being used in www.nogo.link and www.hospital21.com which are supported on the same www.umniverse.com platform.
+It is currently being used in https://nogo.link and https://hospital21.com which are supported on the same www.umniverse.com platform.
 
 Its main mentor is Francisco Reis who has a vision for a unified standard allowing different platforms to establish rich communication. 
 
