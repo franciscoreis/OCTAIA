@@ -3,11 +3,11 @@ Open Communication Standard Environment Proposal
 
 This is a project started 18th March 2020 to assist remote learning for schools.
 
-It is currently being used in www.nogoclass.com and www.nogoparty.com which are supported on the same www.umniverse.com platform.
+It is currently being used in www.nogo.com and www.hospital21.com which are supported on the same www.umniverse.com platform.
 
-It has two mentors, Manuel Filipe Santos and Francisco Reis, who have a vision for a unified standard allowing different platforms to establish rich communication. 
+Its main mentor is Francisco Reis who has a vision for a unified standard allowing different platforms to establish rich communication. 
 
-The main goal is to address fragmentation where different platforms such as Zoom, Microsoft Teams, Apple Facetime and Google Hangouts can not currently connect with each other.
+The primary goal is to address fragmentation where different platforms such as Zoom, Microsoft Teams, Apple Facetime and Google Hangouts can not currently connect with each other.
 
 Why the OCTAIA name? Because communication has many facets and we decided to highlight 8 (OCTo), one of which is intelligence (AIA - Artificial Intelligence Assistance). 
 
