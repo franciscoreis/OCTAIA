@@ -25,4 +25,4 @@ Note 1: Sincere thanks and due recognition to the open source library SimplePeer
 
 NOTE 2: for more information, check www.octaia.com .
 
-NOTE 3: OCTAIA technologies are developed and teste in Umniverse (automatically include Omnatar.ai, WORLDesktop.org, ...)
+NOTE 3: OCTAIA technologies are developed and tested in Umniverse (automatically include Omnatar.ai, WORLDesktop.org, ...)
